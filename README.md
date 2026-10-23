@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Frozican! 👋
 
-<!--
-**Frozican/Frozican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 I'm passionate about emulation, (tool-assisted) speedrunning, gaming, and technology.
 
-Here are some ideas to get you started:
+💻 I develop web-based emulators, interactive tools, and other programming projects. I enjoy experimenting with different technologies, learning new things, and bringing some new ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests & Projects
+
+* 🎮 **Emulation:** NES, SNES, N64, Wii, and more
+* ⏱️ **TAS Development:** Browser-based tools for tool-assisted speedrunning
+* 🌐 **Web Development:** Interactive websites and browser-based gaming
+* 🕹️ **Game Development:** Exploring game engines, programming, and game technology
+* 🛠️ **Open Source:** Building and improving projects on GitHub
+
+### 💻 Languages & Technologies
+
+* **Programming:** C++, C#, Java, JavaScript, Python, Rust
+* **Web:** HTML, CSS
+* **Scripting:** Shell
+* **Other Interests:** WebAssembly (WASM), emulation, and browser technologies
+
+### 🔗 Links
+
+Check out my **[Dashboard](https://frozican.github.io/)** for my projects and social links.
+
+*Always learning. Always building. Always gaming.* 🎮
