@@ -21,6 +21,6 @@
 
 ### 🔗 Links
 
-Check out my **[Dashboard](https://frozican.github.io/)** for my projects and social links.
+Check out my **[Dashboard](https://frozican.github.io/Frozican-Dashboard/)** for my projects and social links.
 
 *Always learning. Always building. Always gaming.* 🎮
